@@ -5,7 +5,7 @@
             "path": "AM_AR/graft.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/graft.stl",
             "opacity": 0.4,
-            "color": "##7f7f7f",
+            "color": "#7f7f7f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
