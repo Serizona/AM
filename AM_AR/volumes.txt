@@ -1,0 +1,4 @@
+File STL		Volume (cm³)
+========================================
+graft.stl		311.15303 cm³
+remnant.stl		3829.90484 cm³
