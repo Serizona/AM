@@ -5,7 +5,7 @@
             "path": "AM_NAR/graft_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_1.stl",
             "opacity": 0.4,
-            "color": "##7f7f7f",
+            "color": "#7f7f7f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "AM_NAR/graft_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_2.stl",
             "opacity": 0.4,
-            "color": "##7f7f7f",
+            "color": "#7f7f7f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
