@@ -1,11 +1,11 @@
 {
     "models": [
         {
-            "name": "graft__1.stl",
-            "path": "AM_NAR/graft__1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft__1.stl",
-            "opacity": 1.0,
-            "color": "#f61ef4",
+            "name": "graft_1.stl",
+            "path": "AM_NAR/graft_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_1.stl",
+            "opacity": 0.4,
+            "color": "##7f7f7f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -19,11 +19,11 @@
             }
         },
         {
-            "name": "graft__2.stl",
-            "path": "AM_NAR/graft__2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft__2.stl",
-            "opacity": 1.0,
-            "color": "#5558b3",
+            "name": "graft_2.stl",
+            "path": "AM_NAR/graft_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_2.stl",
+            "opacity": 0.4,
+            "color": "##7f7f7f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "AM_NAR/remnant__1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/remnant__1.stl",
             "opacity": 1.0,
-            "color": "#f61ef4",
+            "color": "#dd9778",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "AM_NAR/remnant__2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/remnant__2.stl",
             "opacity": 1.0,
-            "color": "#5558b3",
+            "color": "#40002b",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
