@@ -17,7 +17,6 @@ PVterritory_21.stl		84.68306 cm³
 PVterritory_22.stl		68.36549 cm³
 PVterritory_23.stl		146.58935 cm³
 PVterritory_24.stl		155.64464 cm³
-PVterritory_25.stl		153.34770 cm³
 PVterritory_26.stl		35.25767 cm³
 PVterritory_27.stl		33.16185 cm³
 PVterritory_28.stl		29.44167 cm³
