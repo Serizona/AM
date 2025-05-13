@@ -19,24 +19,6 @@
             }
         },
         {
-            "name": "hepatic_portal_veins.stl",
-            "path": "AM_AR/hepatic_portal_veins.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/hepatic_portal_veins.stl",
-            "opacity": 1.0,
-            "color": "#63bbff",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
             "name": "mass_1.stl",
             "path": "AM_AR/mass_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_1.stl",
@@ -60,6 +42,24 @@
             "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_2.stl",
             "opacity": 1.0,
             "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "pv_main_branch.stl",
+            "path": "AM_AR/pv_main_branch.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/pv_main_branch.stl",
+            "opacity": 1.0,
+            "color": "#edece3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
